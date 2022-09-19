@@ -17,6 +17,7 @@
 
 ### October
 
+* 12: [Samsung Developer Conference 2022](https://www.samsungdeveloperconference.com/) - Online
 * 19-21: [우아한형제들 WOOWACON 2022](https://woowacon.com/) - Online
 * 19-21: [ROS ROSCon Kyoto 2022](https://woowacon.com/) - Online
 * 19-22: [Nvidia GTC2022](https://www.nvidia.com/ko-kr/gtc/) - Online
