@@ -13,6 +13,7 @@
 
 ### September
 
+* 19-22: [Nvidia GTC2022](https://www.nvidia.com/ko-kr/gtc/) - Online
 * 29: [아마존 AWSomeDay 2022](https://aws.amazon.com/ko/events/awsome-day/awsome-day-online/) - Online
 
 ### October
@@ -21,4 +22,3 @@
 * 12: [Samsung Developer Conference 2022](https://www.samsungdeveloperconference.com/) - Online
 * 19-21: [우아한형제들 WOOWACON 2022](https://woowacon.com/) - Online
 * 19-21: [ROS ROSCon Kyoto 2022](https://woowacon.com/) - Online
-* 19-22: [Nvidia GTC2022](https://www.nvidia.com/ko-kr/gtc/) - Online
