@@ -13,7 +13,8 @@
 
 ### September
 
-* 19-22: [Nvidia GTC2022](https://www.nvidia.com/ko-kr/gtc/) - Online
+* 19-22: [Nvidia GTC 2022](https://www.nvidia.com/ko-kr/gtc/) - Online
+* 22-23: [Upbit Developer Conference 2022](https://udc.upbit.com/) - Offline(Busan)
 * 29: [아마존 AWSomeDay 2022](https://aws.amazon.com/ko/events/awsome-day/awsome-day-online/) - Online
 
 ### October
