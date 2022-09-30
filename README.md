@@ -11,12 +11,6 @@
 
 ## 2022
 
-### September
-
-* 19-22: [Nvidia GTC 2022](https://www.nvidia.com/ko-kr/gtc/) - [Online](https://register.nvidia.com/flow/nvidia/gtcfall2022/attendeeportal/page/sessioncatalog?tab.catalogallsessionstab=16566177511100015Kus)
-* 22-23: [Upbit Developer Conference 2022](https://udc.upbit.com/) - Offline(Busan)
-* 29: [아마존 AWSomeDay 2022](https://aws.amazon.com/ko/events/awsome-day/awsome-day-online/) - Online
-
 ### October
 
 * 1-2: [PYCON KOREA 2022](https://2022.pycon.kr/) - [Online](https://www.youtube.com/PyConKRtube)
