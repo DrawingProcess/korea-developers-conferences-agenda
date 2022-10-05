@@ -16,5 +16,5 @@
 * 1-2: [PYCON KOREA 2022](https://2022.pycon.kr/) - [Online](https://www.youtube.com/PyConKRtube)
 * 12: [Samsung Developer Conference 2022](https://www.samsungdeveloperconference.com/) - Online
 * 19-21: [우아한형제들 WOOWACON 2022](https://woowacon.com/) - Online
-* 19-21: [ROS ROSCon Kyoto 2022](https://woowacon.com/) - Online
+* 19-21: [ROS ROSCon Kyoto 2022](https://roscon.ros.org/2022/) - Online
 * 20: [아마존 AWS Innovate 2022(Modern Apps Edition)](https://aws.amazon.com/ko/events/aws-innovate/apj/modern-apps#agenda) - [Online](https://www.youtube.com/c/AWSKorea/playlists?view=50&sort=dd&shelf_id=8)
