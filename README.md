@@ -18,3 +18,4 @@
 * 19-21: [우아한형제들 WOOWACON 2022](https://woowacon.com/) - Online
 * 19-21: [ROS ROSCon Kyoto 2022](https://roscon.ros.org/2022/) - Online
 * 20: [아마존 AWS Innovate 2022(Modern Apps Edition)](https://aws.amazon.com/ko/events/aws-innovate/apj/modern-apps#agenda) - [Online](https://www.youtube.com/c/AWSKorea/playlists?view=50&sort=dd&shelf_id=8)
+* 26-29: [ROBOTWORLD 2022](http://www.robotworld.or.kr/wp/) - Offline
