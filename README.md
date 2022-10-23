@@ -15,6 +15,7 @@
 
 * 1-2: [PYCON KOREA 2022](https://2022.pycon.kr/) - [Online](https://www.youtube.com/PyConKRtube)
 * 12: [Samsung Developer Conference 2022](https://www.samsungdeveloperconference.com/) - Online
+* 19: [MongoDB Day Seoul 2022](https://www.mongodb.com/events/mongodb-days-apac-2022/seoul) - Offline (양재동 엘타워 그랜드홀)
 * 19-21: [우아한형제들 WOOWACON 2022](https://woowacon.com/) - Online
 * 19-21: [ROS ROSCon Kyoto 2022](https://roscon.ros.org/2022/) - [Online](https://discourse.ros.org/t/roscon-live-stream-links-and-chat-channel/27818)
 * 20: [아마존 AWS Innovate 2022(Modern Apps Edition)](https://aws.amazon.com/ko/events/aws-innovate/apj/modern-apps#agenda) - [Online](https://www.youtube.com/c/AWSKorea/playlists?view=50&sort=dd&shelf_id=8)
