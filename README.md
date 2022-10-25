@@ -20,3 +20,7 @@
 * 19-21: [ROS ROSCon Kyoto 2022](https://roscon.ros.org/2022/) - [Online](https://discourse.ros.org/t/roscon-live-stream-links-and-chat-channel/27818)
 * 20: [아마존 AWS Innovate 2022(Modern Apps Edition)](https://aws.amazon.com/ko/events/aws-innovate/apj/modern-apps#agenda) - [Online](https://www.youtube.com/c/AWSKorea/playlists?view=50&sort=dd&shelf_id=8)
 * 26-29: [ROBOTWORLD 2022](http://www.robotworld.or.kr/wp/) - Offline
+
+### November
+
+* 3: [아마존 AWS Industry Week](https://aws.amazon.com/ko/events/industry-week) - Offline (삼성동 1층 코엑스 그렌드볼룸)
