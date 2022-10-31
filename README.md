@@ -24,3 +24,4 @@
 ### November
 
 * 3: [아마존 AWS Industry Week](https://aws.amazon.com/ko/events/industry-week) - Offline (삼성동 1층 코엑스 그렌드볼룸)
+* 28-2: [아마존 AWS re:Invent](https://reinvent.awsevents.com/?trk=4656fa37-de59-42d7-8e32-0c40f9a1c926) - Online
