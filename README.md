@@ -14,3 +14,9 @@
 ### December
 
 * 14: [NAVER Cloud SUMMIT](https://me2.do/GEuW6LAu) - Online
+
+## 2023
+
+### July
+
+* 14: [Robotics: Science and Systems(RSS) Conference](https://me2.do/GEuW6LAu) - Offline(Daegu, Republic of Korea)
