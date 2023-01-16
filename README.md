@@ -11,6 +11,10 @@
 
 ## 2023
 
+### February
+
+* 27-28: [NAVER DEVIEW 2023](https://deview.kr/2023) - Offline(Seoul COEX, Republic of Korea)
+
 ### July
 
 * 14: [Robotics: Science and Systems(RSS) Conference](https://me2.do/GEuW6LAu) - Offline(Daegu, Republic of Korea)
