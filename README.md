@@ -9,12 +9,6 @@
 
 * [2022](archives/2022.md)
 
-## 2022
-
-### December
-
-* 14: [NAVER Cloud SUMMIT](https://me2.do/GEuW6LAu) - Online
-
 ## 2023
 
 ### July
