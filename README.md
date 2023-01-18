@@ -15,6 +15,10 @@
 
 * 27-28: [NAVER DEVIEW 2023](https://deview.kr/2023) - Offline(Seoul COEX, Republic of Korea)
 
+### March
+
+* 20-23: [NVIDIA GTC 2023](https://www.nvidia.com/gtc/) - Online
+
 ### July
 
 * 14: [Robotics: Science and Systems(RSS) Conference](https://me2.do/GEuW6LAu) - Offline(Daegu, Republic of Korea)
