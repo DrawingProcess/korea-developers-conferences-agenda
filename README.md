@@ -11,10 +11,6 @@
 
 ## 2023
 
-### February
-
-* 27-28: [NAVER DEVIEW 2023](https://deview.kr/2023) - Offline(Seoul COEX, Republic of Korea)
-
 ### March
 
 * 04: [오로카 제9회 오픈 로보틱스 세미나](https://cafe.naver.com/openrt?iframe_url=/ArticleList.nhn%3Fsearch.clubid=25572101%26search.menuid=106%26search.boardtype=L) - Offline(Seoul ROBOTIS, Republic of Korea)
