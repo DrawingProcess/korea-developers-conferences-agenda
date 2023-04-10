@@ -8,6 +8,7 @@
 ## Archives
 
 * [2022](archives/2022.md)
+* [2023](archives/2023.md)
 
 ## 2023
 
@@ -16,6 +17,11 @@
 * 04: [오로카 제9회 오픈 로보틱스 세미나](https://cafe.naver.com/openrt?iframe_url=/ArticleList.nhn%3Fsearch.clubid=25572101%26search.menuid=106%26search.boardtype=L) - Offline(Seoul ROBOTIS, Republic of Korea)
 * 20-23: [NVIDIA GTC 2023](https://www.nvidia.com/gtc/) - Online
 
+### April
+
+* 03 - 04: [AWS Summit Seoul](https://aws.amazon.com/ko/events/summits/seoul/) - Offline(Seoul coex, Republic of Korea)
+
 ### July
 
 * 14: [Robotics: Science and Systems(RSS) Conference](https://me2.do/GEuW6LAu) - Offline(Daegu, Republic of Korea)
+
