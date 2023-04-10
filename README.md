@@ -12,7 +12,7 @@
 
 ## 2023
 
-### April
+### May
 
 * 03 - 04: [AWS Summit Seoul](https://aws.amazon.com/ko/events/summits/seoul/) - Offline(Seoul coex, Republic of Korea)
 
